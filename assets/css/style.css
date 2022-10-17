@@ -254,3 +254,9 @@ footer {
         color: #fff;
         text-decoration: none;
     }
+/*================================
+    FOOTER SECTION STYLES
+==================================*/ 
+#services .bi {
+    font-size: 70px;
+}
